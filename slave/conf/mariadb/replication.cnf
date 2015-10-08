@@ -1,0 +1,6 @@
+[mysqld]
+server-id = 2
+bind-address = 0.0.0.0
+slave_compressed_protocol = 1
+binlog_format = row
+read_only

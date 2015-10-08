@@ -1,0 +1,1 @@
+# Vagrant Config for Testing MariaDB Replication
